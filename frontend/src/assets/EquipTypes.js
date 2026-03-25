@@ -1,0 +1,17 @@
+export const EquipTypes = Object.freeze({
+    ACCESSORY: "Accessory",
+    BADGE: "Badge",
+    BELT: "Belt",
+    BOTTOM: "Bottom",
+    CAPE: "Cape",
+    EMBLEM: "Emblem",
+    GLOVES: "Gloves",
+    HAT: "Hat",
+    HEART: "Heart",
+    OVERALL: "Overall",
+    TOP: "Top",
+    SECONDARY: "Secondary",
+    SHOES: "Shoes",
+    SHOULDER: "Shoulder",
+    WEAPON: "Weapon",
+});
